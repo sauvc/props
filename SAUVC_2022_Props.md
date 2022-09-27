@@ -108,7 +108,7 @@ A 150 cm tall & wide gate, and a red flare located 4-8m from side of arena, befo
 <u>On the gate,</u>
 
 1. On 2 x 150cm pipes, fit each end of the pipe with a tee and a elbow in perpendicular orientation to each other. Drill several holes in the pipes. 
-  Use red tape to tape up one pipe, and green tape on the second pipe.
+    Use red tape to tape up one pipe, and green tape on the second pipe.
 2. On the 1 of the 150cm pipe, drill several holes on the pipe. Use black tape to tape up one of the pipes. 
 3. On the remaining 2 x 150cm pipes, glue on 2 elbows on each pipe pointing in the same direction. Drill several holes. This forms the base.
 4. Drill several holes on the PVC 80cm pipes.
@@ -116,7 +116,7 @@ A 150 cm tall & wide gate, and a red flare located 4-8m from side of arena, befo
 6. Fix on the short 80cm pipes on both end of the tees of the green and red pipes. 
 7. Fix on the white pipes with elbows between two the short pipes on both sides. 
 
-<p align="center"><img src="orange_flare.jpeg"  style="width:80%"/></p>
+<p align="center"><img src="main_gate.jpeg"  style="width:80%"/></p>
 
 
 
@@ -126,9 +126,9 @@ A 150 cm tall & wide gate, and a red flare located 4-8m from side of arena, befo
 
 TBC as the SMB from Decathlon was difficult to deploy and required 20kg weights.
 
+<p align="center"><img src="orange_flare.jpeg"  style="width:80%"/></p>
 
 
-<p align="center"><img src="main_gate.jpeg"  style="width:80%"/></p>
 
 
 
